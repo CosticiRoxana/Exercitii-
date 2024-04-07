@@ -1,0 +1,2 @@
+# Exercitii-
+Exercitii Python + Hmtl
