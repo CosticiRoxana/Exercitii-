@@ -1,10 +1,6 @@
 # Exercitii-
-Exercitii Python + Hmtl
+Exercitii Python
 """ Exercitii de pe codewars"""
-
-# 12.01.2024
-
-# Liviu
 
 def to_alternating_case(string):
     """ Transformarea literelor mici in litere mari si viceversa dintr-un string """
@@ -113,8 +109,6 @@ def find_short(s):
 print(find_short('bitcoin take over the world maybe who knows perhaps'))
 
 
-# 15.01.2024 - Gabriel
-
 #   Your task is to create a function that does four basic mathematical operations.
 #
 # The function should take three arguments - operation(string/char), value1(number), value2(number).
@@ -128,8 +122,6 @@ print(basic_op('+', 4, 7))
 
 # Info pentru functia eval(expresie string) - https://www.programiz.com/python-programming/methods/built-in/eval
 
-
-# Alex B
 
 # Implement the function unique_in_order which takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order of elements.
 
@@ -948,7 +940,6 @@ def repeat_characters2(in_str):
   return(str)
 
 
-# Roxana
 
 #def repeat_characters3(input_string):
 
